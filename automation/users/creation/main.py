@@ -4,7 +4,7 @@
 # Name	        : User Creator
 # Description	: Create Users with a password and default groups
 # Author       	: Alex "KitKat" Kikot
-# Email         	: git@kikot.me
+# Email         : git@kikot.me
 ################################################################################
 
 import http.client
